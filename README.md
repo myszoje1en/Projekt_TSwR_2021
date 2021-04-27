@@ -4,3 +4,4 @@
 - Sebastian Pluta
 - Zuzanna Stolc
 - Paweł Woźniak
+# Schemat procesu:
