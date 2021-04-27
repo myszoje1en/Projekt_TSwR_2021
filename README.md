@@ -3,4 +3,4 @@
 # Członkowie grupy:
 *Sebastian Pluta
 *Zuzanna Stolc
-*Paweł Wożniak
+*Paweł Woźniak
